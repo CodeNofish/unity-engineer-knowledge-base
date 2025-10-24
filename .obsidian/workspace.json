@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dfb492cb9100ed0",
+        "id": "dd0ceaae189a5ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "13a27de469c96843",
+            "id": "0adb657f4edc8efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/ProGit/5. 分布式 Git.md",
+                "file": "渲染/TA教程/K大教程/1. 渲染管线概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 分布式 Git"
+              "title": "1. 渲染管线概述"
             }
           }
         ]
@@ -167,22 +167,32 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "13a27de469c96843",
+  "active": "0adb657f4edc8efa",
   "lastOpenFiles": [
+    "渲染/TA教程/K大教程/assets/file-20251024154007680.png",
+    "渲染/渲染管线",
+    "渲染/TA教程/K大教程/assets/file-20251024152821001.png",
+    "渲染/渲染管线/渲染管线软实现/概述.md",
+    "渲染/TA教程/K大教程/1. 渲染管线概述.md",
+    "渲染/渲染管线/渲染管线软实现",
+    "渲染/TA教程/K大教程/assets/file-20251024145721277.png",
+    "渲染/TA教程/K大教程/assets/file-20251024145059798.png",
+    "渲染/TA教程/K大教程/assets/file-20251024144934028.png",
+    "渲染/TA教程/K大教程/assets/file-20251024143757870.png",
+    "渲染/TA教程/K大教程/assets/file-20251024141153485.png",
+    "渲染/TA教程/K大教程/assets/file-20251024135206082.png",
+    "渲染/TA教程/K大教程/assets/file-20251024134638241.png",
+    "渲染/TA教程",
+    "渲染/TA教程/K大教程/assets",
+    "渲染/渲染理论/《实时渲染》4th/未命名.md",
+    "渲染/TA教程/K大教程",
+    "渲染/渲染理论",
+    "渲染/渲染理论/《实时渲染》4th",
+    "版本控制/Git/ProGit/5. 分布式 Git.md",
     "版本控制/Git/ProGit/assets/file-20251023215812811.png",
     "版本控制/Git/ProGit/assets/file-20251023215804831.png",
-    "版本控制/Git/ProGit/assets/file-20251023215759354.png",
     "版本控制/Git/ProGit/4. 服务器上的 Git.md",
-    "版本控制/Git/ProGit/5. 分布式 Git.md",
     "版本控制/Git/ProGit/3. Git 分支.md",
-    "版本控制/Git/ProGit/assets/file-20251023215025783.png",
-    "版本控制/Git/ProGit/assets/file-20251023214957956.png",
-    "版本控制/Git/ProGit/assets/file-20251023214946100.png",
-    "版本控制/Git/ProGit/assets/file-20251023214936883.png",
-    "版本控制/Git/ProGit/assets/file-20251023214927101.png",
-    "版本控制/Git/ProGit/assets/file-20251023214925812.png",
-    "版本控制/Git/ProGit/assets/file-20251023214924708.png",
-    "版本控制/Git/ProGit/assets/file-20251023214909148.png",
     "版本控制/Git/ProGit/2.  Git 基础.md",
     "版本控制/Git/ProGit/0. 概述.md",
     "版本控制/Git/ProGit/1. 起步.md",
@@ -192,15 +202,8 @@
     "动画/补间动画库/DOTween源码分析/阅读DOTween项目准备.md",
     "动画/补间动画库",
     "动画/补间动画库/DOTween源码分析",
-    "动画",
     "版本控制/Git/GiHub管理小型项目/有用的链接.md",
     "版本控制/Git/GiHub管理小型项目/An Intro to using GitHub with Unity for Beginners.md",
-    "版本控制/Git/ProGit/assets/2.  Git 基础",
-    "版本控制/Git/ProGit/assets",
-    "版本控制/Git/ProGit/未命名 7.base",
-    "版本控制/Git/ProGit/未命名 6.base",
-    "版本控制/Git/ProGit/未命名 5.base",
-    "版本控制/Git/ProGit/未命名 4.base",
     "未命名.md",
     "渲染/UnityShader/shader语法入门/ShaderLab文档.md",
     "渲染/UnityShader/shader语法入门/概述.md",
