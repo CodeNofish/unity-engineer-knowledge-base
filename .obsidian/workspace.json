@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0ceaae189a5ec6",
+        "id": "098c9aa0a72babd9",
         "type": "tabs",
         "children": [
           {
-            "id": "0adb657f4edc8efa",
+            "id": "0a48d5d12c492f8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "渲染/TA教程/K大教程/1. 渲染管线概述.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. 渲染管线概述"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 257.5
   },
   "right": {
     "id": "b77fcaf91b3cec2d",
@@ -140,16 +136,26 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Unity引擎/图形/1.渲染管线/3.渲染管线特性比较.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "3.渲染管线特性比较 的大纲"
+            }
+          },
+          {
+            "id": "2b52737f82b86211",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,56 +170,57 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0adb657f4edc8efa",
+  "active": "0a48d5d12c492f8b",
   "lastOpenFiles": [
+    "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译/Shader编译过程.md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译/异步着色器编译.md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/着色器分支变体关键字/0.分支变体关键字.md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/Shader资产.md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/assets/Inspector-ShaderCompilePopup.png",
+    "Unity引擎/图形/着色器/1.着色器核心概念/assets",
+    "Unity引擎/图形/着色器/1.着色器核心概念/Shader类.md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/着色器核心概念.md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译",
+    "Unity引擎/图形/着色器/1.着色器核心概念/着色器分支变体关键字",
+    "渲染/渲染理论/实时渲染4/1.基础知识/Ch2.图形渲染管线(The Graphics Rendering Pipeline).md",
+    "Unity引擎/图形/着色器/1.着色器核心概念/assets/Inspector-ShaderCompilePopup-1761480578462-1.png",
+    "Unity引擎/图形/着色器/1.着色器核心概念/Untitled.md",
+    "渲染/渲染理论/实时渲染4/1.基础知识/assets/file-20251026200333603.png",
+    "渲染/渲染理论/实时渲染4/1.基础知识/assets/file-20251026195549982.png",
+    "渲染/渲染理论/实时渲染4/1.基础知识/assets",
+    "渲染/渲染理论/实时渲染4/1.基础知识/Ch1.引言(Introduction).md",
+    "渲染/渲染理论/实时渲染4/导读.md",
+    "渲染/渲染理论/实时渲染4/6.其他/Ch26.实时光线追踪(Real-Time Ray Tracing).md",
+    "渲染/渲染理论/实时渲染4/6.其他/Ch25.碰撞检测(Collision Detection).md",
+    "渲染/渲染理论/实时渲染4/6.其他/Ch24.未来展望(The Future).md",
+    "渲染/渲染理论/实时渲染4/6.其他/Ch23.图形硬件(Graphics Hardware).md",
+    "渲染/渲染理论/实时渲染4/6.其他/Ch22.相交测试(Intersection Test Methods).md",
+    "渲染/渲染理论/实时渲染4/6.其他/Ch21.虚拟现实和增强现实(Virtual and Augmented Reality).md",
+    "渲染/渲染理论/实时渲染4/5.性能优化/Ch20.高效着色(Efficient Shading).md",
+    "渲染/渲染理论/实时渲染4/5.性能优化/Ch19.加速算法(Acceleration Algorithms).md",
+    "渲染/渲染理论/实时渲染4/5.性能优化/Ch18.管线优化(Pipeline Optimization).md",
+    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch17.曲线和曲面(Curves and Curved Surfaces).md",
+    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch16.多边形技术(Polygonal Techniques).md",
+    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch15.非真实感渲染(Non-Photorealistic Rendering).md",
+    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch14.体积和半透明渲染(Volumetric and Translucency Rendering).md",
+    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch13.超越多边形(Beyond Polygons).md",
+    "渲染/渲染理论/实时渲染4/3.高级渲染技术/Ch12.图像空间效果(Image-Space Effects).md",
+    "渲染/渲染理论/实时渲染4/3.高级渲染技术/Ch11.全局光照(Global Illumination).md",
+    "渲染/渲染理论/实时渲染4/6.其他",
+    "渲染/渲染理论/实时渲染4/6.未来展望",
+    "渲染/渲染理论/实时渲染4/5.性能优化",
+    "渲染/渲染理论/实时渲染4/4.特殊主题",
+    "渲染/渲染理论/实时渲染4/3.高级渲染技术",
+    "渲染/渲染理论/实时渲染4/2.核心渲染技术",
+    "Unity引擎/图形/渲染管线/assets/file-20251026073554239.png",
     "渲染/TA教程/K大教程/assets/file-20251024154007680.png",
-    "渲染/渲染管线",
     "渲染/TA教程/K大教程/assets/file-20251024152821001.png",
-    "渲染/渲染管线/渲染管线软实现/概述.md",
-    "渲染/TA教程/K大教程/1. 渲染管线概述.md",
-    "渲染/渲染管线/渲染管线软实现",
     "渲染/TA教程/K大教程/assets/file-20251024145721277.png",
     "渲染/TA教程/K大教程/assets/file-20251024145059798.png",
-    "渲染/TA教程/K大教程/assets/file-20251024144934028.png",
-    "渲染/TA教程/K大教程/assets/file-20251024143757870.png",
-    "渲染/TA教程/K大教程/assets/file-20251024141153485.png",
-    "渲染/TA教程/K大教程/assets/file-20251024135206082.png",
-    "渲染/TA教程/K大教程/assets/file-20251024134638241.png",
-    "渲染/TA教程",
-    "渲染/TA教程/K大教程/assets",
-    "渲染/渲染理论/《实时渲染》4th/未命名.md",
-    "渲染/TA教程/K大教程",
-    "渲染/渲染理论",
-    "渲染/渲染理论/《实时渲染》4th",
-    "版本控制/Git/ProGit/5. 分布式 Git.md",
-    "版本控制/Git/ProGit/assets/file-20251023215812811.png",
-    "版本控制/Git/ProGit/assets/file-20251023215804831.png",
-    "版本控制/Git/ProGit/4. 服务器上的 Git.md",
-    "版本控制/Git/ProGit/3. Git 分支.md",
-    "版本控制/Git/ProGit/2.  Git 基础.md",
-    "版本控制/Git/ProGit/0. 概述.md",
-    "版本控制/Git/ProGit/1. 起步.md",
-    "README.md",
-    "动画/补间动画库/DOTweenProInPractice",
-    "动画/补间动画库/DOTween源码分析/编写规范的AssemblyInfo.md",
-    "动画/补间动画库/DOTween源码分析/阅读DOTween项目准备.md",
-    "动画/补间动画库",
-    "动画/补间动画库/DOTween源码分析",
-    "版本控制/Git/GiHub管理小型项目/有用的链接.md",
-    "版本控制/Git/GiHub管理小型项目/An Intro to using GitHub with Unity for Beginners.md",
-    "未命名.md",
-    "渲染/UnityShader/shader语法入门/ShaderLab文档.md",
-    "渲染/UnityShader/shader语法入门/概述.md",
-    "渲染/UnityShader/shader语法入门.md",
-    "CSharp/语言集成查询LINQ/LINQ入门.md",
-    "().md",
-    "Unity引擎/Unity协程/概述.md",
-    "Unity引擎/unity协程 1/概述.md",
-    "CSharp/语言集成查询LINQ/LINQ入门/概述.md",
-    "CSharp/异步编程/UniTask/概述.md",
-    "CSharp/异步编程/异步编程入门/概述.md"
+    "渲染/TA教程/K大教程/assets/file-20251024144934028.png"
   ]
 }
