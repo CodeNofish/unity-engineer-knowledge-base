@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "098c9aa0a72babd9",
+        "id": "be55551d6bc214bf",
         "type": "tabs",
         "children": [
           {
-            "id": "0a48d5d12c492f8b",
+            "id": "ce6dc0c49d2e6e56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity引擎/图形/1.渲染管线/3.渲染管线特性比较.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.渲染管线特性比较 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -155,7 +154,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,26 +174,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a48d5d12c492f8b",
+  "active": "ce6dc0c49d2e6e56",
   "lastOpenFiles": [
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/正文.md",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/笔记.md",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027122009695.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027121828562.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027121819877.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027114038445.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027113954662.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027105454974.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027105230947.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027100537322.png",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251026195549982.png",
+    "渲染/渲染理论/实时渲染4/Ch0.导读",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251026200333603.png",
+    "渲染/渲染理论/实时渲染4/Ch1.引言(Introduction)/正文.md",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)",
+    "渲染/渲染理论/实时渲染4/Ch1.引言(Introduction)/笔记.md",
+    "渲染/渲染理论/实时渲染4/Ch1.引言(Introduction)",
     "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译/Shader编译过程.md",
     "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译/异步着色器编译.md",
     "Unity引擎/图形/着色器/1.着色器核心概念/着色器分支变体关键字/0.分支变体关键字.md",
     "Unity引擎/图形/着色器/1.着色器核心概念/Shader资产.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/assets/Inspector-ShaderCompilePopup.png",
     "Unity引擎/图形/着色器/1.着色器核心概念/assets",
     "Unity引擎/图形/着色器/1.着色器核心概念/Shader类.md",
     "Unity引擎/图形/着色器/1.着色器核心概念/着色器核心概念.md",
     "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译",
     "Unity引擎/图形/着色器/1.着色器核心概念/着色器分支变体关键字",
-    "渲染/渲染理论/实时渲染4/1.基础知识/Ch2.图形渲染管线(The Graphics Rendering Pipeline).md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/assets/Inspector-ShaderCompilePopup-1761480578462-1.png",
     "Unity引擎/图形/着色器/1.着色器核心概念/Untitled.md",
-    "渲染/渲染理论/实时渲染4/1.基础知识/assets/file-20251026200333603.png",
-    "渲染/渲染理论/实时渲染4/1.基础知识/assets/file-20251026195549982.png",
-    "渲染/渲染理论/实时渲染4/1.基础知识/assets",
-    "渲染/渲染理论/实时渲染4/1.基础知识/Ch1.引言(Introduction).md",
-    "渲染/渲染理论/实时渲染4/导读.md",
+    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets",
+    "渲染/渲染理论/实时渲染4/Ch0.导读/导读.md",
     "渲染/渲染理论/实时渲染4/6.其他/Ch26.实时光线追踪(Real-Time Ray Tracing).md",
     "渲染/渲染理论/实时渲染4/6.其他/Ch25.碰撞检测(Collision Detection).md",
     "渲染/渲染理论/实时渲染4/6.其他/Ch24.未来展望(The Future).md",
@@ -203,24 +214,12 @@
     "渲染/渲染理论/实时渲染4/5.性能优化/Ch20.高效着色(Efficient Shading).md",
     "渲染/渲染理论/实时渲染4/5.性能优化/Ch19.加速算法(Acceleration Algorithms).md",
     "渲染/渲染理论/实时渲染4/5.性能优化/Ch18.管线优化(Pipeline Optimization).md",
-    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch17.曲线和曲面(Curves and Curved Surfaces).md",
-    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch16.多边形技术(Polygonal Techniques).md",
-    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch15.非真实感渲染(Non-Photorealistic Rendering).md",
-    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch14.体积和半透明渲染(Volumetric and Translucency Rendering).md",
-    "渲染/渲染理论/实时渲染4/4.特殊主题/Ch13.超越多边形(Beyond Polygons).md",
-    "渲染/渲染理论/实时渲染4/3.高级渲染技术/Ch12.图像空间效果(Image-Space Effects).md",
-    "渲染/渲染理论/实时渲染4/3.高级渲染技术/Ch11.全局光照(Global Illumination).md",
+    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch17.曲线和曲面(Curves and Curved Surfaces).md",
+    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch16.多边形技术(Polygonal Techniques).md",
+    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch15.非真实感渲染(Non-Photorealistic Rendering).md",
+    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch14.体积和半透明渲染(Volumetric and Translucency Rendering).md",
     "渲染/渲染理论/实时渲染4/6.其他",
     "渲染/渲染理论/实时渲染4/6.未来展望",
-    "渲染/渲染理论/实时渲染4/5.性能优化",
-    "渲染/渲染理论/实时渲染4/4.特殊主题",
-    "渲染/渲染理论/实时渲染4/3.高级渲染技术",
-    "渲染/渲染理论/实时渲染4/2.核心渲染技术",
-    "Unity引擎/图形/渲染管线/assets/file-20251026073554239.png",
-    "渲染/TA教程/K大教程/assets/file-20251024154007680.png",
-    "渲染/TA教程/K大教程/assets/file-20251024152821001.png",
-    "渲染/TA教程/K大教程/assets/file-20251024145721277.png",
-    "渲染/TA教程/K大教程/assets/file-20251024145059798.png",
-    "渲染/TA教程/K大教程/assets/file-20251024144934028.png"
+    "渲染/渲染理论/实时渲染4/5.性能优化"
   ]
 }
