@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be55551d6bc214bf",
+        "id": "590a243adf698fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6dc0c49d2e6e56",
+            "id": "c16c7a7b203a82a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "性能优化/优化理论/Memory In Unity/Managed memory/1. Managed memory introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1. Managed memory introduction"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "b77fcaf91b3cec2d",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "渲染/渲染理论/实时渲染4/Ch4.Transform/正文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "正文 的反向链接列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Unity引擎/动画/Animator Controllers/Animator Controllers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Animator Controllers 的大纲"
             }
           },
           {
@@ -174,52 +181,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce6dc0c49d2e6e56",
+  "active": "c16c7a7b203a82a8",
   "lastOpenFiles": [
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/正文.md",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/笔记.md",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027122009695.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027121828562.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027121819877.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027114038445.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027113954662.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027105454974.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027105230947.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251027100537322.png",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251026195549982.png",
-    "渲染/渲染理论/实时渲染4/Ch0.导读",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets/file-20251026200333603.png",
-    "渲染/渲染理论/实时渲染4/Ch1.引言(Introduction)/正文.md",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)",
-    "渲染/渲染理论/实时渲染4/Ch1.引言(Introduction)/笔记.md",
-    "渲染/渲染理论/实时渲染4/Ch1.引言(Introduction)",
-    "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译/Shader编译过程.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译/异步着色器编译.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/着色器分支变体关键字/0.分支变体关键字.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/Shader资产.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/assets",
-    "Unity引擎/图形/着色器/1.着色器核心概念/Shader类.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/着色器核心概念.md",
-    "Unity引擎/图形/着色器/1.着色器核心概念/着色器编译",
-    "Unity引擎/图形/着色器/1.着色器核心概念/着色器分支变体关键字",
-    "Unity引擎/图形/着色器/1.着色器核心概念/Untitled.md",
-    "渲染/渲染理论/实时渲染4/Ch2.图形渲染管线(The Graphics Rendering Pipeline)/assets",
-    "渲染/渲染理论/实时渲染4/Ch0.导读/导读.md",
-    "渲染/渲染理论/实时渲染4/6.其他/Ch26.实时光线追踪(Real-Time Ray Tracing).md",
-    "渲染/渲染理论/实时渲染4/6.其他/Ch25.碰撞检测(Collision Detection).md",
-    "渲染/渲染理论/实时渲染4/6.其他/Ch24.未来展望(The Future).md",
-    "渲染/渲染理论/实时渲染4/6.其他/Ch23.图形硬件(Graphics Hardware).md",
-    "渲染/渲染理论/实时渲染4/6.其他/Ch22.相交测试(Intersection Test Methods).md",
-    "渲染/渲染理论/实时渲染4/6.其他/Ch21.虚拟现实和增强现实(Virtual and Augmented Reality).md",
-    "渲染/渲染理论/实时渲染4/5.性能优化/Ch20.高效着色(Efficient Shading).md",
-    "渲染/渲染理论/实时渲染4/5.性能优化/Ch19.加速算法(Acceleration Algorithms).md",
-    "渲染/渲染理论/实时渲染4/5.性能优化/Ch18.管线优化(Pipeline Optimization).md",
-    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch17.曲线和曲面(Curves and Curved Surfaces).md",
-    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch16.多边形技术(Polygonal Techniques).md",
-    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch15.非真实感渲染(Non-Photorealistic Rendering).md",
-    "渲染/渲染理论/实时渲染4/4.​​特殊效果与技术/Ch14.体积和半透明渲染(Volumetric and Translucency Rendering).md",
-    "渲染/渲染理论/实时渲染4/6.其他",
-    "渲染/渲染理论/实时渲染4/6.未来展望",
-    "渲染/渲染理论/实时渲染4/5.性能优化"
+    "性能优化/优化理论/Memory In Unity/Managed memory/assets/file-20251028233449020.png",
+    "性能优化/优化理论/Memory In Unity/Managed memory/assets/file-20251028233338807.png",
+    "性能优化/优化理论/Memory In Unity/Managed memory/assets",
+    "性能优化/优化理论/Memory In Unity/Managed memory/1. Managed memory introduction.md",
+    "性能优化/优化理论/Memory In Unity/Unmanaged CSharp memory.md",
+    "性能优化/优化理论/Memory In Unity/Memory in Unity introduction.md",
+    "性能优化/优化理论/Profiling tools reference",
+    "性能优化/优化理论/Graphics performance and profiling",
+    "性能优化/优化理论/Unity Profiler",
+    "性能优化/优化理论/Memory In Unity/Memory in Unity.md",
+    "性能优化/优化理论/Memory In Unity/Native memory",
+    "性能优化/优化理论/Memory In Unity/Managed memory",
+    "README.md",
+    "性能优化/优化理论/Memory In Unity",
+    "性能优化/优化理论",
+    "性能优化/性能测试工具/XcodeInstruments​",
+    "性能优化/性能测试工具/AndroidProfiler",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/正文.md",
+    "渲染/渲染理论/实时渲染4/Ch4.Transform/正文.md",
+    "渲染/渲染理论/实时渲染4/Ch4.Transform/assets/file-20251028155456433.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144912760.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144525494.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144443391.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144236525.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144203788.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144131566.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144059243.png",
+    "渲染/渲染理论/实时渲染4/Ch3.CPU/assets/file-20251028144031853.png",
+    "Unity引擎/动画/Animator Controllers/Animator Controllers.md",
+    "Unity引擎/动画/Animation Window Guide/9. Using Animation Events.md",
+    "Unity引擎/动画/Animation Window Guide/8. Objects with Multiple Moving Parts.md",
+    "Unity引擎/动画/Animation Window Guide/7. Key manipulation in Curves mode.md",
+    "Unity引擎/动画/Animation Window Guide/6. Key manipulation in Dopesheet mode.md",
+    "Unity引擎/动画/Animation Window Guide/5. Editing Curves.md",
+    "Unity引擎/动画/Animation Window Guide/4. Using Animation Curves.md",
+    "Unity引擎/动画/Animation Window Guide/3. Animating a GameObject.md",
+    "Unity引擎/动画/Animation Window Guide/2. Creating a new Animation Clip.md",
+    "Unity引擎/动画/Animation Window Guide/1. Using the Animation view.md",
+    "Unity引擎/动画/Animation Window Guide/0. Animation Window Guide.md",
+    "Unity引擎/动画/Animation Clips/Animation Clips.md",
+    "Unity引擎/动画/Performance and optimization.md",
+    "Unity引擎/动画/A Glossary of animation terms.md",
+    "未命名.md",
+    "Unity引擎/动画/Rotation in animations.md",
+    "Unity引擎/动画/Animation System Overview.md",
+    "渲染/渲染理论/实时渲染4/Ch2.渲染管线/正文.md"
   ]
 }

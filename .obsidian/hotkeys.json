@@ -54,5 +54,13 @@
       ],
       "key": "6"
     }
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
